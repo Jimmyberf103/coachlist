@@ -1,2 +1,0 @@
-# coachlist
-Created with CodeSandbox

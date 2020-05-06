@@ -1,0 +1,30 @@
+{
+  "name": "expo-starter",
+  "description": "",
+  "keywords": [],
+  "version": "1.0.0",
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^36.0.2",
+    "expo-constants": "8.0.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-native-web": "0.11.0",
+    "react-redux": "7.2.0",
+    "redux": "4.0.5"
+  },
+  "devDependencies": {
+    "expo-cli": "^3.11.7"
+  },
+  "scripts": {
+    "start": "expo-cli start",
+    "build": "expo-cli build:web"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
